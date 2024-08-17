@@ -1,0 +1,33 @@
+{
+  "name": "gpt-integrate",
+  "version": "1.0.0",
+  "description": "Node GPT integrate",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^5.2.0",
+    "base64-js": "^1.5.1",
+    "camelcase": "^6.3.0",
+    "commander": "^10.0.1",
+    "decamelize": "^1.2.0",
+    "dotenv": "^16.4.5",
+    "eventemitter3": "^4.0.7",
+    "js-tiktoken": "^1.0.12",
+    "langsmith": "^0.1.41",
+    "mustache": "^4.2.0",
+    "p-finally": "^1.0.0",
+    "p-queue": "^6.6.2",
+    "p-retry": "^4.6.2",
+    "p-timeout": "^3.2.0",
+    "retry": "^0.13.1",
+    "semver": "^7.6.3",
+    "uuid": "^10.0.0",
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.23.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Saurav Prateek",
+  "license": "ISC"
+}
