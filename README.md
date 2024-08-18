@@ -17,3 +17,7 @@ A very basic NodeJS application which leverages GPT models to to answer queries.
 ### Querying GPT Model
 
 Headover to `locahpts:3000` :smiley:
+
+### Step By Step guide on Youtube
+
+[![YouTube](http://i.ytimg.com/vi/yp9OjpP7vC8/hqdefault.jpg)](https://www.youtube.com/watch?v=yp9OjpP7vC8)
